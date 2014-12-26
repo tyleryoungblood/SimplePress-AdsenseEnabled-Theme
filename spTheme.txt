@@ -1,7 +1,7 @@
 Simple:Press Theme Title: AdsenseEnabled
 Version: 1.2.12
 Theme URI: http://simple-press.com
-Description: Simple:Press Custom Theme by Tyler that adds Adsense
+Description: Simple:Press Custom Theme by Tyler Youngblood that adds Adsense
 Author: Tyler Youngblood
 Author URI: http://simple-press.com/custom-simplepress-themes-for-every-need/
 Stylesheet: AdsenseEnabled.php
